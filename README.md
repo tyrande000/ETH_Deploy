@@ -3,7 +3,6 @@
 
 # 安装
 ```
-npm install layagcs --registry=https://registry.npmjs.org
 npm install
 ```
 
@@ -28,10 +27,6 @@ https://ropsten.etherscan.io/verifyContract2?a=
 
 测试环境 game合约：  
 https://ropsten.etherscan.io/address/0x9310e6d115066fa5d939135092051dd4ff128cc5#code
-
-game合约创建者及私钥:  
-地址： `0x50d3dd0831858a8a5c4802b792fb7cd521e28687`  
-私钥： `71e1a11975be5315f2a3b2fd63d8092a1f04d946216249377feb85b40e9164ae`  
 
 # 事例
 ## 如何五分钟发布一个代币
